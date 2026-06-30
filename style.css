@@ -199,6 +199,10 @@ a { color: inherit; text-decoration: none; }
   font-size: 1rem;
   margin-bottom: 2rem;
 }
+.hero-desc span {
+  display: block;
+  margin-bottom: 0.5rem;
+}
 
 .section-heading {
   font-size: clamp(1.8rem, 3.5vw, 2.6rem);
